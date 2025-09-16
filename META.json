@@ -1,0 +1,61 @@
+{
+  "category": "blockchain",
+  "created_date": "2025-09-15T22:48:58.242722",
+  "default_ports": [
+    80,
+    443,
+    18080
+  ],
+  "dependencies": [],
+  "description": "monero is a free and open-source privacy coin node. Monero provides private, secure, untraceable cryptocurrency node",
+  "difficulty_level": "intermediate",
+  "documentation_url": "https://howtomgr.github.io/blockchain/monero",
+  "estimated_setup_time": "15-30 minutes",
+  "features": [
+    "multi-os-support",
+    "comprehensive-documentation",
+    "security-hardening",
+    "performance-optimization",
+    "backup-restore-procedures",
+    "troubleshooting-guides"
+  ],
+  "guide_path": "/blockchain/monero",
+  "installation_methods": [
+    "native-packages",
+    "source-compilation"
+  ],
+  "last_updated": "2025-09-15T22:48:58.242750",
+  "license": "Open Source",
+  "maintenance_status": "active",
+  "name": "monero",
+  "repository_url": "https://github.com/howtomgr/monero",
+  "spec_version": "2.0",
+  "subcategory": "blockchain",
+  "supported_os": [
+    "rhel",
+    "centos",
+    "rocky",
+    "almalinux",
+    "debian",
+    "ubuntu",
+    "arch",
+    "alpine",
+    "opensuse",
+    "sles",
+    "macos",
+    "freebsd",
+    "windows"
+  ],
+  "tags": [
+    "blockchain",
+    "containerization",
+    "observability",
+    "data-storage",
+    "networking",
+    "security",
+    "data-protection"
+  ],
+  "title": "monero Installation Guide",
+  "version": "1.0.0",
+  "website_url": "https://howtomgr.github.io/blockchain/monero"
+}
